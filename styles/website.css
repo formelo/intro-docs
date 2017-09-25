@@ -8,12 +8,6 @@ body, .book.font-family-1 {
     height: 40px;
     line-height: 40px;
 }
-.book-summary ul.summary li.header:first-child {
-    color: #333;
-    font-size: 18px;
-    padding: 0px 15px;
-    text-transform: none;
-}
 .book-summary ul.summary li:last-child {
     display: none;
 }
@@ -32,15 +26,6 @@ body, .book.font-family-1 {
     margin-left: 10px;
     cursor: pointer;
 }
-/*.book-summary {
-    margin-top: 10px;
-    padding-top: 50px;
-    background-image: url(https://formelo.com/wp-content/uploads/2015/11/logo_398x100_lightbg@2x.png);
-    background-repeat: no-repeat;
-    background-position: top;
-    background-size: 160px;
-    font-family: inherit;
-}*/
 .book-summary ul.summary {
     margin: 0px 5px;
 }
