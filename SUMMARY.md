@@ -1,7 +1,5 @@
 # Summary
 
-## Introduction
-
 ## About
 - [Overview](README.md)
 - [Goals](docs/about/goals.md)
